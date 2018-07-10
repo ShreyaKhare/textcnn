@@ -1,7 +1,7 @@
 # textcnn
 This example demonstrates the use of Convolution1D for text classification.
 
-Dataset: IMDB
+IMDB dataset
 
 Gets to 89% test accuracy after 2 epochs.
 90s/epoch on Intel i5 2.4Ghz CPU.
